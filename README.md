@@ -52,7 +52,7 @@
 | 6 | [Bug Bounty Methodology](https://github.com/USERNAME/bug-bounty-methodology) | My recon & hunting methodology | 🔨 Building |
 | 7 | [PortSwigger Labs](https://github.com/USERNAME/portswigger-writeups) | Web Security Academy solutions | 🔨 Building |
 | 8 | [Active Directory Lab](https://github.com/USERNAME/ad-home-lab) | Windows AD attack & defense lab | 📋 Planned |
-| 9 | [TryHackMe Writeups](https://github.com/USERNAME/ad-home-lab) | Documentation and writeups from TryHackMe rooms | ✅ Started  |
+| 9 | [TryHackMe Writeups](https://github.com/Gokulpvtr/tryhackme-writeups.git) | Documentation and writeups from TryHackMe rooms | ✅ Started  |
 
 
 
