@@ -46,12 +46,15 @@
 |---|---------|-------------|--------|
 | 1 | [SOC Home Lab](https://github.com/USERNAME/soc-home-lab) | Splunk SIEM with custom detection rules | 🔨 Building |
 | 2 | [Office Network Design](https://github.com/USERNAME/packet-tracer-labs) | Enterprise network with VLANs, ACLs, NAT | 🔨 Building |
-| 3 | [Python Port Scanner](https://github.com/USERNAME/python-port-scanner) | TCP scanner with banner grabbing | ✅ Complete |
+| 3 | [Python Port Scanner](https://github.com/Gokulpvtr/python-port-scanner.git) | TCP scanner with banner grabbing | ✅ Complete |
 | 4 | [Vulnerability Assessment](https://github.com/USERNAME/nmap-labs) | Nmap scanning & professional VA reports | 🔨 Building |
 | 5 | [Network Traffic Analysis](https://github.com/USERNAME/wireshark-analysis) | Wireshark PCAP analysis reports | 🔨 Building |
 | 6 | [Bug Bounty Methodology](https://github.com/USERNAME/bug-bounty-methodology) | My recon & hunting methodology | 🔨 Building |
 | 7 | [PortSwigger Labs](https://github.com/USERNAME/portswigger-writeups) | Web Security Academy solutions | 🔨 Building |
 | 8 | [Active Directory Lab](https://github.com/USERNAME/ad-home-lab) | Windows AD attack & defense lab | 📋 Planned |
+| 9 | [TryHackMe Writeups](https://github.com/USERNAME/ad-home-lab) | Documentation and writeups from TryHackMe rooms | ✅ Started  |
+
+
 
 ---
 
