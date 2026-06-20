@@ -74,16 +74,19 @@
 
 ## 📂 Featured Projects
 
-| Project                 | Description                                                         | Status         |
-| ----------------------- | ------------------------------------------------------------------- | -------------- |
-| Cybersecurity Portfolio | Central portfolio of projects, certifications, and learning journey | ✅ Active       |
-| Networking Notes        | Cisco Networking Basics, networking concepts, and study notes       | ✅ Active       |
-| Linux Notes             | Linux commands, administration notes, and practice exercises        | ✅ Active       |
-| Wireshark Analysis      | Packet captures, protocol analysis, and network investigations      | ✅ Active       |
-| TryHackMe Writeups      | Room writeups and learning documentation                            | ✅ Active       |
-| Packet Tracer Labs      | Networking labs and enterprise network simulations                  | 🔨 In Progress |
-| PortSwigger Writeups    | Web Security Academy lab writeups and notes                         | 🔨 In Progress |
-| Python Security Tools   | Custom Python projects and security-related scripts                 | 🔨 In Progress |
+| Project                                                                             | Description                                                         | Status         |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------- |
+| [🛡️ Cybersecurity Portfolio](https://github.com/Gokulpvtr/cybersecurity-portfolio) | Central portfolio of projects, certifications, and learning journey | ✅ Active       |
+| [📡 Networking Notes](https://github.com/Gokulpvtr/networking-notes)                | Cisco Networking Basics, networking concepts, and study notes       | ✅ Active       |
+| [🐧 Linux Notes](https://github.com/Gokulpvtr/linux-note)                           | Linux commands, administration notes, and practice exercises        | ✅ Active       |
+| [🔍 Wireshark Analysis](https://github.com/Gokulpvtr/wireshark-analysis)            | Packet captures, protocol analysis, and network investigations      | ✅ Active       |
+| [🎯 TryHackMe Writeups](https://github.com/Gokulpvtr/tryhackme-writeups)            | Room writeups and learning documentation                            | ✅ Active       |
+| [🖧 Packet Tracer Labs](https://github.com/Gokulpvtr/packet-tracer-labs)            | Networking labs and enterprise network simulations                  | 🔨 In Progress |
+| [🧪 PortSwigger Writeups](https://github.com/Gokulpvtr/portswigger-writeups)        | Web Security Academy lab writeups and notes                         | 🔨 In Progress |
+| [🛠️ Python Security Tools](https://github.com/Gokulpvtr/python-security-tools)     | Custom Python projects and security-related scripts                 | 🔨 In Progress |
+| [📊 Nmap Labs](https://github.com/Gokulpvtr/nmap-labs)                              | Vulnerability assessment reports and network scanning practice      | 🔨 In Progress |
+| [📖 Bug Bounty Methodology](https://github.com/Gokulpvtr/bug-bounty-methodology)    | Security testing methodology, notes, and recon workflows            | 🔨 In Progress |
+
 
 ---
 
