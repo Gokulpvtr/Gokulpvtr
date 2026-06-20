@@ -1,83 +1,129 @@
 # Hi, I'm Gokulkrishnan S 👋
 
-## 🔐 Offensive Security Enthusiast | Bug Bounty Hunter | BCA Student
+## 💻 BCA Student | IT Infrastructure & Cybersecurity Enthusiast
 
-🎓 3rd Year BCA at University of Kerala
-🔴 Focused on Web Application Security & Red Team Operations
-🐛 Active Bug Bounty Hunter on HackerOne & Bugcrowd
-🛠️ Building offensive security tools in Python
+🎓 Final-Year BCA Student at the University of Kerala
 
----
+🌐 Passionate about Networking, Linux Administration, System Administration, and Cybersecurity
 
-### 🎯 What I'm Currently Working On
-- 🔍 Hunting bugs on bug bounty platforms
-- 📚 PortSwigger Web Security Academy (OWASP Top 10)
-- 🏠 Building a SOC Home Lab with Splunk
-- 🌐 Networking & System Administration skills
-- 📝 Documenting everything on GitHub
+🔐 Building practical skills through networking labs, cybersecurity projects, TryHackMe, PortSwigger Web Security Academy, and hands-on learning
+
+🛠️ Documenting my learning journey, projects, and technical notes on GitHub
 
 ---
 
-### 🛠️ Tools & Technologies
+## 🎯 Career Goals
 
-**Offensive Security:**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+### Short-Term
 
-**Programming:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+* IT Administrator
+* Technical Support Engineer
+* System Administrator
 
-**Networking & Defense:**
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+### Mid-Term
 
-**Platforms:**
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+* SOC Analyst
+* Security Analyst
+
+### Long-Term
+
+* Penetration Tester
+* Red Team Operator
 
 ---
 
-### 📂 My Projects
+## 🚀 Currently Learning
 
-| # | Project | Description | Status |
-|---|---------|-------------|--------|
-| 1 | [SOC Home Lab](https://github.com/USERNAME/soc-home-lab) | Splunk SIEM with custom detection rules | 🔨 Building |
-| 2 | [Office Network Design](https://github.com/USERNAME/packet-tracer-labs) | Enterprise network with VLANs, ACLs, NAT | 🔨 Building |
-| 3 | [Python Port Scanner](https://github.com/Gokulpvtr/python-port-scanner.git) | TCP scanner with banner grabbing | ✅ Complete |
-| 4 | [Vulnerability Assessment](https://github.com/USERNAME/nmap-labs) | Nmap scanning & professional VA reports | 🔨 Building |
-| 5 | [Network Traffic Analysis](https://github.com/USERNAME/wireshark-analysis) | Wireshark PCAP analysis reports | 🔨 Building |
-| 6 | [Bug Bounty Methodology](https://github.com/USERNAME/bug-bounty-methodology) | My recon & hunting methodology | 🔨 Building |
-| 7 | [PortSwigger Labs](https://github.com/USERNAME/portswigger-writeups) | Web Security Academy solutions | 🔨 Building |
-| 8 | [Active Directory Lab](https://github.com/USERNAME/ad-home-lab) | Windows AD attack & defense lab | 📋 Planned |
-| 9 | [TryHackMe Writeups](https://github.com/Gokulpvtr/tryhackme-writeups.git) | Documentation and writeups from TryHackMe rooms | ✅ Started  |
-
-
+* 📡 Cisco Networking Basics
+* 🐧 Linux Administration
+* 🏢 Active Directory Fundamentals
+* 🔍 Wireshark Network Analysis
+* 🧪 PortSwigger Web Security Academy
+* 🛡️ Security Operations Fundamentals
+* 📝 Technical Documentation & GitHub Portfolio Development
 
 ---
 
-### 📜 Certifications
-- ✅ Ethical Hacking & Web Security — Offenso Hackers Academy
-- ✅ SQL Injection Attacks — CodeRed
-- ✅ Kali Linux for Ethical Hackers — Udemy
-- ✅ Cybersecurity — Tech Mahindra Foundation
-- ✅ n8n Automation Tool — Analytics Vidhya
+## 🛠️ Technical Skills
+
+### Networking
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-blue?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-Traffic_Analysis-blue?style=for-the-badge)
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-System_Admin-blue?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Security_Testing-blue?style=for-the-badge)
+
+### Cybersecurity
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Web_Security-orange?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-blue?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Labs-red?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-Top_10-black?style=for-the-badge)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-Scripting-green?style=for-the-badge)
+
 ---
 
-### 📊 GitHub Stats
+## 📂 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokulpvtr&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulpvtr&layout=compact&theme=dark)
+| Project                 | Description                                                         | Status         |
+| ----------------------- | ------------------------------------------------------------------- | -------------- |
+| Cybersecurity Portfolio | Central portfolio of projects, certifications, and learning journey | ✅ Active       |
+| Networking Notes        | Cisco Networking Basics, networking concepts, and study notes       | ✅ Active       |
+| Linux Notes             | Linux commands, administration notes, and practice exercises        | ✅ Active       |
+| Wireshark Analysis      | Packet captures, protocol analysis, and network investigations      | ✅ Active       |
+| TryHackMe Writeups      | Room writeups and learning documentation                            | ✅ Active       |
+| Packet Tracer Labs      | Networking labs and enterprise network simulations                  | 🔨 In Progress |
+| PortSwigger Writeups    | Web Security Academy lab writeups and notes                         | 🔨 In Progress |
+| Python Security Tools   | Custom Python projects and security-related scripts                 | 🔨 In Progress |
 
 ---
 
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gokulkrishnan-bca)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Gokulkrishnan)
+## 📜 Certifications
+
+* ✅ Ethical Hacking & Web Security — Offenso Hackers Academy
+* ✅ SQL Injection Attacks — CodeRed
+* ✅ Kali Linux for Ethical Hackers — Udemy
+* ✅ Cybersecurity — Tech Mahindra Foundation
+* ✅ n8n Automation Tool — Analytics Vidhya
+* ⏳ Cisco Networking Basics — Cisco Skills For All (In Progress)
 
 ---
 
-*"The quieter you become, the more you can hear." — BackTrack*
+## 📈 Learning Platforms
+
+* TryHackMe
+* PortSwigger Web Security Academy
+* Cisco Skills For All
+* HackerOne
+* Bugcrowd
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokulpvtr\&show_icons=true\&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulpvtr\&layout=compact\&theme=dark)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)]([https://linkedin.com](https://linkedin.com/in/gokulkrishnan-bca))
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge\&logo=tryhackme)](https://tryhackme.com/p/Gokulkrishnan)
+
+---
+
+### 💡 Philosophy
+
+> Continuous learning, hands-on practice, and strong fundamentals are the foundation of a successful career in IT and Cybersecurity.
