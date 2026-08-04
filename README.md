@@ -83,7 +83,7 @@
 | [🎯 TryHackMe Writeups](https://github.com/Gokulpvtr/tryhackme-writeups)            | Room writeups and learning documentation                            | ✅ Active     |
 | [🖧 Packet Tracer Labs](https://github.com/Gokulpvtr/packet-tracer-labs)            | Networking labs and enterprise network simulations                   | ✅ Active     |
 | [🧪 PortSwigger Writeups](https://github.com/Gokulpvtr/portswigger-writeups)        | Web Security Academy lab writeups and notes                         | ✅ Active     |
-| [🛠️ Python Security Tools](https://github.com/Gokulpvtr/python-security-tools)     | Custom Python projects and security-related scripts                 | 🔨 In Progress |
+| [🛠️ Python Security Tools](https://github.com/Gokulpvtr/python-port-scanner)     | Custom Python projects and security-related scripts                   | ✅ Active     |
 | [📊 Nmap Labs](https://github.com/Gokulpvtr/nmap-labs)                              | Vulnerability assessment reports and network scanning practice      | 🔨 In Progress |
 | [📖 Bug Bounty Methodology](https://github.com/Gokulpvtr/bug-bounty-methodology)    | Security testing methodology, notes, and recon workflows            | 🔨 In Progress |
 
