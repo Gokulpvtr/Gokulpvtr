@@ -92,12 +92,13 @@
 
 ## 📜 Certifications
 
+* ✅ Google Cybersecurity Professional Certificate (2026)
 * ✅ Ethical Hacking & Web Security — Offenso Hackers Academy
 * ✅ SQL Injection Attacks — CodeRed
 * ✅ Kali Linux for Ethical Hackers — Udemy
 * ✅ Cybersecurity — Tech Mahindra Foundation
 * ✅ Cisco Packet Tracer — Cisco Skills for All
-* ⏳ Cisco Networking Basics — Cisco Skills For All (In Progress)
+* ✅ Cisco Networking Basics — Cisco Skills For     All 
 
 ---
 
@@ -113,9 +114,18 @@
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokulpvtr\&show_icons=true\&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gokulpvtr&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulpvtr&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulpvtr\&layout=compact\&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gokulpvtr&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gokulpvtr&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
