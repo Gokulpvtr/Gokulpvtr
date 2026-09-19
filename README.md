@@ -16,14 +16,14 @@
 
 ### Short-Term
 
-* IT Administrator
+* Entry-level IT
 * Technical Support Engineer
 * System Administrator
 
 ### Mid-Term
 
-* SOC Analyst
-* Security Analyst
+* Junior Penetration Tester
+* Web Application Security Tester
 
 ### Long-Term
 
@@ -34,13 +34,13 @@
 
 ## 🚀 Currently Learning
 
-* 📡 Cisco Networking Basics
+* 📡 Web application penetration testing (PortSwigger Web Security Academy)
 * 🐧 Linux Administration
 * 🏢 Active Directory Fundamentals
-* 🔍 Wireshark Network Analysis
-* 🧪 PortSwigger Web Security Academy
+* 🔍 Bug bounty methodology and recon
+* 🧪 Python for security tools
 * 🛡️ Security Operations Fundamentals
-* 📝 Technical Documentation & GitHub Portfolio Development
+* 📝 Writing professional vulnerability reports
 
 ---
 
@@ -77,16 +77,16 @@
 | Project                                                                             | Description                                                         | Status         |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------- |
 | [🛡️ Cybersecurity Portfolio](https://github.com/Gokulpvtr/cybersecurity-portfolio) | Central portfolio of projects, certifications, and learning journey | ✅ Active      |
-| [📡 Networking Notes](https://github.com/Gokulpvtr/networking-notes)                | Cisco Networking Basics, networking concepts, and study notes       | ✅ Active     |
-| [🐧 Linux Notes](https://github.com/Gokulpvtr/linux-note)                           | Linux commands, administration notes, and practice exercises        | ✅ Active     |
-| [🔍 Wireshark Analysis](https://github.com/Gokulpvtr/wireshark-analysis)            | Packet captures, protocol analysis, and network investigations      | ✅ Active     |
-| [🎯 TryHackMe Writeups](https://github.com/Gokulpvtr/tryhackme-writeups)            | Room writeups and learning documentation                            | ✅ Active     |
-| [🖧 Packet Tracer Labs](https://github.com/Gokulpvtr/packet-tracer-labs)            | Networking labs and enterprise network simulations                   | ✅ Active     |
 | [🧪 PortSwigger Writeups](https://github.com/Gokulpvtr/portswigger-writeups)        | Web Security Academy lab writeups and notes                         | ✅ Active     |
-| [🛠️ Python Security Tools](https://github.com/Gokulpvtr/python-port-scanner)     | Custom Python projects and security-related scripts                   | ✅ Active     |
-| [📊 Nmap Labs](https://github.com/Gokulpvtr/nmap-labs)                              | Vulnerability assessment reports and network scanning practice      | 🔨 In Progress |
-| [📖 Bug Bounty Methodology](https://github.com/Gokulpvtr/bug-bounty-methodology)    | Security testing methodology, notes, and recon workflows            | 🔨 In Progress |
-
+| [🎯 TryHackMe Writeups](https://github.com/Gokulpvtr/tryhackme-writeups)            | Room writeups and learning documentation                            | ✅ Active     |
+| [🛠️ python-port-scanner](https://github.com/Gokulpvtr/python-port-scanner)          | Multi-threaded port scanner with banner grabbing                    | ✅ Active     |
+| [📡 Networking Notes](https://github.com/Gokulpvtr/networking-notes)                | Cisco Networking Basics, networking concepts, and study notes       | ✅ Active     |
+| [📚 web-vuln-notes](https://github.com/Gokulpvtr/web-vuln-notes)                    | One note per vulnerability class                                    | 🔨 In progress|
+| [🖧 Packet Tracer Labs](https://github.com/Gokulpvtr/packet-tracer-labs)             | Networking labs and enterprise network simulations                  | ✅ Active     |
+| [🔍 Wireshark Analysis](https://github.com/Gokulpvtr/wireshark-analysis)            | Packet captures, protocol analysis, and network investigations      | ✅ Active     |
+| [📖 Bug Bounty Methodology](https://github.com/Gokulpvtr/bug-bounty-methodology)    | Security testing methodology, notes, and recon workflows            | 🔨 In Progress|
+| [🧫 vulnerable-app-labs](https://github.com/Gokulpvtr/vulnerable-app-labs)          | Hands-on testing of Juice Shop / DVWA                               | 🔨 In progress|
+| [📄 pentest-report-samples](https://github.com/Gokulpvtr/pentest-report-samples) | Professional-style pentest reports                                     | 🔨 In progress|
 
 ---
 
@@ -98,7 +98,7 @@
 * ✅ Kali Linux for Ethical Hackers — Udemy
 * ✅ Cybersecurity — Tech Mahindra Foundation
 * ✅ Cisco Packet Tracer — Cisco Skills for All
-* ✅ Cisco Networking Basics — Cisco Skills For     All 
+* ✅ Cisco Networking Basics — Cisco Skills For All 
 
 ---
 
