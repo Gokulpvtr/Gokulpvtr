@@ -1,6 +1,6 @@
 # Hi, I'm Gokulkrishnan S 👋
 
-## 💻 BCA Student | IT Infrastructure & Cybersecurity Enthusiast
+## 💻 Aspiring Cybersecurity Professional | Bug Bounty Hunter | Web Application Security
 
 🎓 Final-Year BCA Student at the University of Kerala
 
