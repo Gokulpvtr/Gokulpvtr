@@ -102,9 +102,9 @@ SQL Injection · XSS · CSRF · SSRF · IDOR · Access Control · XXE · File Up
 | [TryHackMe Writeups](https://github.com/Gokulpvtr/tryhackme-writeups) | Room writeups and learning documentation | ✅ Active |
 | [python-port-scanner](https://github.com/Gokulpvtr/python-port-scanner) | Multi-threaded port scanner with banner grabbing | ✅ Active |
 | [Bug Bounty Methodology](https://github.com/Gokulpvtr/bug-bounty-methodology) | Testing methodology, notes, and recon workflows | ✅ Active |
-| [web-vuln-notes](https://github.com/Gokulpvtr/web-vuln-notes) | One note per vulnerability class | 🔨 In Progress |
+| [Vulnscope](https://github.com/Gokulpvtr/VulnScope) | Vulnerability Scanner Dashboard | ✅ Active|
+| [RECON-X](https://github.com/Gokulpvtr/recon-x) | Automated Reconnaissance & Enumeration Tool| ✅ Active |
 | [vulnerable-app-labs](https://github.com/Gokulpvtr/vulnerable-app-labs) | Hands-on testing of Juice Shop and DVWA | 🔨 In Progress |
-| [pentest-report-samples](https://github.com/Gokulpvtr/pentest-report-samples) | Professional-style pentest reports | 🔨 In Progress |
 
 ### 🌐 Networking & Systems
 
@@ -157,7 +157,7 @@ SQL Injection · XSS · CSRF · SSRF · IDOR · Access Control · XXE · File Up
 | [GitHub](https://github.com/Gokulpvtr) | Projects, write-ups, and notes |
 | [LinkedIn](https://linkedin.com/in/gokulkrishnan-bca) | Professional networking |
 | [TryHackMe](https://tryhackme.com/p/Gokulkrishnan) | Hands-on cybersecurity rooms |
-| [PortSwigger Web Security Academy](https://portswigger.net/web-security) | Web application security labs |
+| PortSwigger Web Security Academy | Web application security labs |
 | HackerOne | Bug bounty hunting |
 | Bugcrowd | Bug bounty platform |
 | Cisco Skills For All | Networking courses |
